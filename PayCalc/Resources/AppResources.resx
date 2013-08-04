@@ -154,7 +154,7 @@
     <comment>P1: Text displayed below the "calculate" button, just above the total value.</comment>
   </data>
   <data name="RetirementBlockText" xml:space="preserve">
-    <value>retirement payment</value>
+    <value>retirement payment %</value>
     <comment>P2: header text for "retirement payment" text box</comment>
   </data>
   <data name="TaxDeductionsBlockText" xml:space="preserve">
@@ -165,7 +165,7 @@
     <value>total net pay:</value>
   </data>
   <data name="UnemploymentBlockText" xml:space="preserve">
-    <value>unemployment payment</value>
+    <value>unemployment payment %</value>
     <comment>P2: header text for "unemployment payment" text box.</comment>
   </data>
 </root>

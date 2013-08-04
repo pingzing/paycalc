@@ -142,7 +142,7 @@ namespace PayCalc.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to retirement payment.
+        ///   Looks up a localized string similar to retirement payment %.
         /// </summary>
         public static string RetirementBlockText {
             get {
@@ -169,7 +169,7 @@ namespace PayCalc.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to unemployment payment.
+        ///   Looks up a localized string similar to unemployment payment %.
         /// </summary>
         public static string UnemploymentBlockText {
             get {
