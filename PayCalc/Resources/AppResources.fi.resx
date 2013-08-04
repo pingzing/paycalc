@@ -163,9 +163,10 @@
   </data>
   <data name="DetailsPageName" xml:space="preserve">
     <value>details</value>
-    <comment>P2: Header for page 2.</comment>
+    <comment>P2: Header at the top of the "details" page.</comment>
   </data>
   <data name="TotalNetPayBlockText" xml:space="preserve">
     <value>total net pay:</value>
+    <comment>P1: bottom-most header, appears above the total net pay value</comment>
   </data>
 </root>
